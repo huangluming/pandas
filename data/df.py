@@ -34,6 +34,7 @@ def insert_mysql(engine, df):
 
 
 # 数据库配置信息
+#配置信息2
 engine = sqlalchemy.create_engine(
     "mysql+mysqldb://root:AJHJUe7y$1ECR#Pw@192.168.1.110:3306/prod_dw_rzb", encoding='utf8')
 
