@@ -1,0 +1,41 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-07-19T07:00:00+00:00	X002FBL511	ONEXSY01BL44S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt Blue	-2	FBA15MC0TZQL	BHM1
+2020-07-19T07:00:00+00:00	X002FBL511	ONEXSY01BL44S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt Blue	-5	FBA15MC0TZQL	CLE2
+2020-07-19T07:00:00+00:00	X002FBL511	ONEXSY01BL44S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt Blue	-5	FBA15MC0TZQL	MKC6
+2020-07-19T07:00:00+00:00	X001SVVP5F	ONEXSY1801CPS40	FISHINGSIR Hip Boots Hip Waders for Men with Boots Waterproof Lightweight Bootfoot Cleated 2-Ply Nylon/PVC	-1	FBA15LV7XHGK	DTW1
+2020-07-19T07:00:00+00:00	X001I7NO7L	ONEXSY01V46S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt Green	-4	FBA15MC0TZQL	BFI4
+2020-07-19T07:00:00+00:00	X001QPTZK5	ONEXSY01V40S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-1	FBA15MC0TZQL	JAX2
+2020-07-19T07:00:00+00:00	X001QPTZK5	ONEXSY01V40S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-5	FBA15MC0TZQL	FTW6
+2020-07-19T07:00:00+00:00	X002IJX67L	ONEXSY05TPC30S	Hisea Kids Chest Waders Neoprene Fishing Waders for Toddler & Children Youth Duck Hunting Waders for Kids with Boots	1	FBA15MBH5Y9L	FTW6
+2020-07-19T07:00:00+00:00	X002I7U47N	ONEXSX11CA44S	Hisea Men's Mid Rain Boots Waterproof Rubber Boots for Men Muck Mud Boots Outdoor Camo	-1	FBA15LZ20CW7	ONT2
+2020-07-19T07:00:00+00:00	X002I8DR5X	ONEXSX12CA45S	Hisea Men's Mid Rubber Work Boots Waterproof Insulated Industrial Work Rain Boot Muck Mud Riding Boots Outdoor Camo	1	FBA15LZ3NC1D	MGE1
+2020-07-19T07:00:00+00:00	X002I86BIX	ONEXSX12BL41S	Hisea Men's Mid Rubber Work Boots Waterproof Insulated Industrial Work Rain Boot Muck Mud Riding Boots Outdoor Black	-1	FBA15LZ3NC1D	ONT2
+2020-07-18T07:00:00+00:00	X001I7NNQN	ONEXSY01V42S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-2	FBA15MC0TZQL	LGB7
+2020-07-18T07:00:00+00:00	X001I7NKO3	ONEXSY01V39S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-5	FBA15MC0TZQL	FTW6
+2020-07-18T07:00:00+00:00	X001I7NNQN	ONEXSY01V42S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-7	FBA15MC0TZQL	RIC2
+2020-07-18T07:00:00+00:00	X002E8FVYH	ONEXSX06WGR40S	Hisea Ankle-Height Rain Boots Rubber Garden Boots Waterproof Muck Riding Boots Neoprene Outdoor Work Boots for Women Men Green	5	FBA15MBV3QV9	ONT6
+2020-07-18T07:00:00+00:00	X001I7NNQN	ONEXSY01V42S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-5	FBA15MC0TZQL	EWR9
+2020-07-18T07:00:00+00:00	X0028EQ4IJ	ONEXSX02BL43S	Hisea Men's Work Boots Neoprene Waterproof Rubber Muck Mud Work Boot Insulated Outsole Black	1	FBA15MBC55QR	ONT6
+2020-07-18T07:00:00+00:00	X001I7QBQ7	ONEXSY01V44S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-4	FBA15MC0TZQL	BHM1
+2020-07-18T07:00:00+00:00	X001I7NNQN	ONEXSY01V42S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-5	FBA15MC0TZQL	CLE2
+2020-07-18T07:00:00+00:00	X001I7NO7V	ONEXSY01V43S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-2	FBA15MC0TZQL	BFI4
+2020-07-18T07:00:00+00:00	X001I7NO7V	ONEXSY01V43S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-5	FBA15MC0TZQL	FTW6
+2020-07-18T07:00:00+00:00	X001I7NKPR	ONEXSY01V45S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-2	FBA15MC0TZQL	BHM1
+2020-07-18T07:00:00+00:00	X001I7QBRL	ONEXSY01V41S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-1	FBA15MC0TZQL	BHM1
+2020-07-18T07:00:00+00:00	X001I7QBRL	ONEXSY01V41S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-8	FBA15MC0TZQL	CMH1
+2020-07-18T07:00:00+00:00	X001I7NO7V	ONEXSY01V43S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-3	FBA15MC0TZQL	CMH1
+2020-07-18T07:00:00+00:00	X001I7NO7V	ONEXSY01V43S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-5	FBA15MC0TZQL	DEN3
+2020-07-18T07:00:00+00:00	X001I7NO7V	ONEXSY01V43S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-4	FBA15MC0TZQL	HOU2
+2020-07-18T07:00:00+00:00	X0028VWACL	ONEXSY01CA40S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	1	FBA15LV7GJGB	LGB3
+2020-07-18T07:00:00+00:00	X001I7NKO3	ONEXSY01V39S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-4	FBA15MC0TZQL	JAX2
+2020-07-18T07:00:00+00:00	X001I7NNQN	ONEXSY01V42S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-6	FBA15MC0TZQL	JAX2
+2020-07-18T07:00:00+00:00	X002FBL3SL	ONEXSY01BL46S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt Blue	-1	FBA15MC0TZQL	SMF1
+2020-07-18T07:00:00+00:00	X001I7NNQN	ONEXSY01V42S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-3	FBA15MC0TZQL	MDW7
+2020-07-18T07:00:00+00:00	X001I7NKO3	ONEXSY01V39S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-2	FBA15MC0TZQL	RIC2
+2020-07-18T07:00:00+00:00	X001I7NKO3	ONEXSY01V39S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-5	FBA15MC0TZQL	SLC1
+2020-07-18T07:00:00+00:00	X001I7NKO3	ONEXSY01V39S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-2	FBA15MC0TZQL	GRR1
+2020-07-18T07:00:00+00:00	X001I7QBRL	ONEXSY01V41S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-3	FBA15MC0TZQL	GRR1
+2020-07-18T07:00:00+00:00	X001I7NKO3	ONEXSY01V39S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-4	FBA15MC0TZQL	EWR4
+2020-07-18T07:00:00+00:00	X001I7QBRL	ONEXSY01V41S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-12	FBA15MC0TZQL	DFW7
+2020-07-18T07:00:00+00:00	X001I7QBRL	ONEXSY01V41S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	-2	FBA15MC0TZQL	MKE1
+2020-07-18T07:00:00+00:00	X00290CA49	ONEXSY01CA42S	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt	1	FBA15LV7GJGB	LGB3
