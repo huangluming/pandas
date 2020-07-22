@@ -1,0 +1,2 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2008-08-08T07:00:00+00:00	X0001KNK1J	YGJ004S123	FISHINGSIR Fishing Chest Waders for Men with Boots Mens Womens Hunting Bootfoot Waterproof Nylon and PVC Waders with Wading Belt Blue	-2	FBA15MC0TZQL	BHM1
